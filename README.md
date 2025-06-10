@@ -80,13 +80,7 @@ If no data exists, it shows a popup saying “No game data found.”
 
 # OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/1b65098b-df1c-4920-9ae8-eb44d451a33a)          ![Image](https://github.com/user-attachments/assets/2ff13361-6451-45f3-a596-0efab0974a02)
-
-![Image](https://github.com/user-attachments/assets/6fa8f580-1764-43f1-a5be-6b1eb1bcc03b)
-
-![Image](https://github.com/user-attachments/assets/f5576609-3f86-4f70-90c8-2142c612819e)
-
-![Image](https://github.com/user-attachments/assets/89a3ef77-a2e0-482d-8a7d-c249fd189d66)
+![Image](https://github.com/user-attachments/assets/1b65098b-df1c-4920-9ae8-eb44d451a33a)              ![Image](https://github.com/user-attachments/assets/2ff13361-6451-45f3-a596-0efab0974a02)            ![Image](https://github.com/user-attachments/assets/6fa8f580-1764-43f1-a5be-6b1eb1bcc03b)                ![Image](https://github.com/user-attachments/assets/f5576609-3f86-4f70-90c8-2142c612819e)                ![Image](https://github.com/user-attachments/assets/89a3ef77-a2e0-482d-8a7d-c249fd189d66)
 
 
 
